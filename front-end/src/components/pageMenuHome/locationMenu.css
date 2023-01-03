@@ -1,0 +1,16 @@
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+  }
+  .container2 ul{
+    width: max-content;
+  }
+  .container2 li{
+    list-style-type: none;
+    margin: auto;
+  }
+  .container2 p{
+    text-align: center;
+  }
